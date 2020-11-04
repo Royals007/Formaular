@@ -1,0 +1,21 @@
+
+title {
+    border: medium;
+    align-content: center;
+    font-family: sans-serif;
+    font-size: 35px;
+}
+
+.container{
+    width: 100%;
+}
+
+.label{
+    text-align: left;
+    alignment: bottom;
+    display: inline-block;
+
+}
+.container input{
+    text-align: left;
+}
